@@ -1,0 +1,18 @@
+module.exports = {
+  authKeyUndefined: "Auth key is undefined",
+  alreadyExist: "User with this email already exists",
+  notUniqueUserName: "Not a unique user name. Please enter a unique user name.",
+  invalidPassword: "Invalid password",
+  incorrectOtp: "OTP is incorrect, please provide valid otp.",
+  accountBlock: "Your account has been blocked by the admin",
+  accountNotFound: "User not registered with this email id",
+  noRequestFound: "No request found",
+  authKeyUndefined: "Auth key is undefined",
+  noUserFound: "No user found",
+  noDataFound: "No friends",
+  noChatFound: "No chat found",
+  noNotificationFound: "No notification found",
+  accountDeleted: "Your account has been deleted by admin",
+  internalServerError: "Internal Server Error",
+  invalidPostType: "Invalid Post Type",
+};
